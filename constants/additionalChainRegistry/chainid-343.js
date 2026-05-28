@@ -9,6 +9,7 @@ export const data = {
     "symbol": "BOURSE",
     "decimals": 18
   },
+  "icon": "https://ipfs.capitalexchange.se/QmYi6C3pQdDxoo5GqUL9xNuZLsRhLynS7ngnMu75jFHX8s",
   "infoURL": "https://www.capitalexchange.markets",
   "shortName": "bourse",
   "chainId": 343,
